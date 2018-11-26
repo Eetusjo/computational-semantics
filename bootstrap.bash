@@ -14,5 +14,5 @@ git clone https://github.com/Eetusjo/computational-semantics.git
 
 # cd /home/jovyan/
 
-pip install spacy
-python -m spacy download en
+# pip install spacy
+# python -m spacy download en
