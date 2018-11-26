@@ -12,3 +12,5 @@ git clone https://github.com/Eetusjo/computational-semantics.git
 
 cd computational-semantics/assignment5/data/quora/
 gunzip quora_duplicate_questions.tsv.gz
+
+cd /home/jovyan/
