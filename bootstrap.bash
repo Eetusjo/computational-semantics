@@ -9,10 +9,10 @@ export GIT_COMMITTER_NAME=anonymous
 export GIT_COMMITTER_EMAIL=anon@localhost
 git clone https://github.com/Eetusjo/computational-semantics.git
 
+pip install spacy
+python -m spacy download en
+
 # cd computational-semantics/assignment5/data/quora/
 # gunzip quora_duplicate_questions.tsv.gz 
 
 # cd /home/jovyan/
-
-pip install spacy
-python -m spacy download en
